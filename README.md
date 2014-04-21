@@ -1,4 +1,4 @@
-# &lt;qr-code&gt;
+# &lt;x-sky&gt;
 
 Web Component Sky.
 
