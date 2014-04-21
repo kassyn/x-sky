@@ -6,7 +6,7 @@ Web Component Sky.
 
 ## Demo
 
-> [Check it live]().
+> [Check it live](http://kassyn.github.io/x-sky).
 
 ## Usage
 
